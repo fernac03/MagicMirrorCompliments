@@ -1,0 +1,30 @@
+{
+         "anytime" : [
+                 "Você está ótimo hoje!",
+                 "Hoje é um dia incrível!",
+                 "Você faz a diferença",
+                 "Um belo sorriso, para um lindo dia",
+                 "Você ainda está olhando para o espelho?",
+                 "O espelho diz: 'oi'"
+         ],
+         "morning" : [
+                 "Seu cabelo está incrível hoje!",
+                 "Comece o dia com um sorriso",
+                 "Vai ser um lindo dia!",
+                 "O dia não está incrível?",
+                 "Prepare-se, para um dia incrível!"
+         ],
+         "afternoon" : [
+                 "Apenas terminando seu trabalho...",
+                 "Tarde, não de manhã, não meio-dia",
+                 "Este dia está ótimo",
+                 "Quase na hora do jantar!"
+         ],
+         "evening" : [
+                 "Apenas algumas ligações para fazer...",
+                 "Bom apetite",
+                 "Descanse, incrível",
+                 "Você fez a diferença",
+                 "Você gostou da sua comida?"
+         ]
+}
